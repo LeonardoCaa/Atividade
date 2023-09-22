@@ -54,7 +54,7 @@
             android:layout_height="wrap_content"
             android:layout_margin="20sp"
             android:drawableEnd="@drawable/baseline_email"
-            android:hint="Insira sua senha"
+            android:hint="Insira sua Email"
             android:inputType="textEmailAddress"
             android:maxLength="80"
             android:padding="20sp" />
@@ -64,7 +64,7 @@
             android:layout_height="wrap_content"
             android:layout_margin="20sp"
             android:drawableEnd="@drawable/baseline_phone"
-            android:hint="Insira sua senha"
+            android:hint="Insira seu Telefone"
             android:inputType="textPassword"
             android:maxLength="80"
             android:padding="20sp" />
